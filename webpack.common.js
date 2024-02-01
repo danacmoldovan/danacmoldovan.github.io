@@ -5,7 +5,7 @@ module.exports = {
   entry: { index: './src/index.js' },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Adrian Moldovan',
+      title: 'Dana Moldovan',
       favicon: './src/favicon.ico',
     }),
   ],
