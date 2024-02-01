@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 50px;
+    text-align: center;
+}
+
+header, footer {
+    background-color: #f8f9fa;
+}
+
+#content {
+    padding-top: 10vh;
+}
+
+.profile-picture {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
